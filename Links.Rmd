@@ -1,19 +1,82 @@
 ---
-title: "Resources"
+title: "Research"
 output: html_document
 ---
 
-### R and R-Studio
+###MY RESEARCH{
+  margin-left: 40px;
+}
 
-[R](http://www.r-project.org) is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is [R-studio](http://www.rstudio.com), that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual []().
+Working Papers
+Rezvani, E. and C. Rojas. “Firm Responsiveness to Consumers’ Reviews:  The Effect on Online Reputation”. Under review.
 
-### Additional R resources
+E. Cengiz, C. Rojas and E. Wang. 2019. “The Evolution of Diet Quality in the U.S.: Evidence from Scanner Data” 
 
-1. Google is great, Google your problem
-2. [Stackoverflow](https://stackoverflow.com) is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.
-3. Danielle Navarro wrote a [free Psych Stats textbook using R](https://compcogscisydney.org/learning-statistics-with-r/), it's worth checking out (some of our textbook are based on Danielle's)
-4. I am currently writing another stats textbook (incorporating some of the above). You can read it while it's being made right here [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
-5. Daniell Navarro recently made this website for introducing R, it's great, check it out (also made using this R markdown process): [http://compcogscisydney.org/psyr/](http://compcogscisydney.org/psyr/)
-6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
-7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+C. Rojas. 2019. “Cyclical Tacit Collusion in the Hotel Industry.”
+
+Published Papers
+C. Rojas and E. Wang. 2020. “The Effects of Excise Soda Taxes on Consumption: Evidence from Washington State and the City of Berkeley.” Accepted. Economic Inquiry.
+
+E. Rezvani and C. Rojas. 2020. “Spatial price competition in the Manhattan Hotel Market: The Role of Location, Quality, and Online Reputation,” Managerial and Decision Economics, 41:49-63.
+
+C. Rojas and A. Briceño. 2019. “The Effects of Piracy on Competition: Evidence from Subscription TV,” International Journal of Industrial Organization, 63: 18-43.
+
+H. Wei and C. Rojas. 2018. “Spillover Mechanisms in the WIC Infant Formula Program,” Journal of Agricultural and Food Industrial Organization, December, p. 1-14.
+
+C. Rojas. 2017. “How Much is an Incoming Message Worth? Estimating the Call Externality,” Information Economics and Policy, 38, 23-37.
+
+E. Wang, C. Rojas and F. Colantuoni. 2017. “Heterogeneous behavior, obesity and storability in soft drink consumption: A dynamic demand model,” American Journal of Agricultural Economics, 99(1), 18-33.
+
+C. Bauner, N. Lavoie and C. Rojas. 2017. “Effects of Technological Change on Vertical Product Differentiation in the Presence of Buyer and Seller Market Power,” European Review of Agricultural Economics, 44(1), 67-97.
+
+C. Rojas. 2015. “The Welfare Effects of Banning Off-net/On-net Price Differentials in the Mobile Sector,” Telecommunications Policy, 39, 590-607.
+
+E. Wang, C. Rojas and C. Bauner. 2015 “Evolution of Nutritional Quality in the U.S.: Evidence from the Ready-to-Eat Cereal Industry,” Economics Letters, 133, 105-8.
+
+F. Colantuoni and C. Rojas. 2015. “The Impact of Soda Sales Taxes on Consumption: Evidence from Scanner Data,” Contemporary Economic Policy, 33, 714-30.
+
+D. Huang and C. Rojas. 2014. “Eliminating the Outside Good Bias in Logit Models of Demand with Aggregate Data”, Review of Marketing Science, 12, 1-36.
+
+D. Huang and C. Rojas. 2013. “The Outside Good Bias in Logit Models of Demand with Aggregate Data.” Economics Bulletin, 33, 1.
+
+L. Baraldi and C. Rojas. 2012. “Cost Pass-Through with Network Externalities.”  International Journal of Business & Economics, 10, 3, 177-99.
+
+C. Rojas, N. Lavoie and S. Wang.  2012. “Buyer Market Power and Vertically Differentiated Retailers.” Journal of Agricultural and Food Industrial Organization, 10 (1). DOI: 10.1515/1542-0485.1338
+
+Eckel, P. Grossman, K. Johnson, A. de Oliveira, C. Rojas and R. Wilson. 2012 “On the Development of Risk Preferences: Experimental Evidence.” Journal of Risk & Uncertainty, 45, 265-92.
+
+C. Rojas. 2012. “The Effect of Mandated Exclusive Territories in the US Brewing Industry.”  B.E. Journal of Economic Analysis & Policy, 12 (1). DOI: 10.1515/1935-1682.3088
+
+C. Rojas. 2012. The Role of Information and Monitoring on Collusion. RAND Journal of Economics, 43, 78-109.
+
+C. Rojas and T. Shi. 2011. “Tax Incidence when Quality Matters: Evidence from the Beer Market,” Journal of Agricultural and Food Industrial Organization, 9, 1-33. DOI: 10.2202/1542-0485.1353
+
+C. Eckel, P. Grossman, K. Johnson, A. de Oliveira, C. Rojas and R. Wilson. 2011. “Social Norms of Sharing in High School: Teen Student Giving in the Dictator Game.” Journal of Economic Behavior and Organization, 80, 603-12.
+
+C. Rojas, 2010. “Market Power and the Lerner Index: A Classroom Experiment.” Journal of Industrial Organization Education. 5(1), 1-19.
+
+C. Dave, C. Eckel, C. Johnson and C. Rojas, 2010. “Eliciting Risk Preferences: When is Simple Better?” Journal of Risk and Uncertainty, 41, 219-43.
+
+C. Rojas. 2008. “Price Competition in U.S. Brewing.” Journal of Industrial Economics, 56, 1-31 [lead article]
+
+C. Rojas and E. Peterson. 2008. “Demand for Differentiated Products: Price and Advertising Evidence from the U.S. beer Market.” International Journal of Industrial Organization, 26, 288-307.
+
+D. Huang, C. Rojas and F. Bass. 2008. “What Happens when Demand is Estimated with a Misspecified Model?” Journal of Industrial Economics, 56, 809-39.
+
+C. Rojas, A. Andino and W. Purcell. 2008 “Retailers’ Response to Wholesale Price Changes: New Evidence from Scanner-Based Quantity-Weighted Beef Prices.”Agribusiness: An International Journal, 24, 1-15 [lead article]
+
+A. Basuchoudhary, C. Metcalf, K. Pommerenke, D. Reiley, C. Rojas, M. Rostek and J. Stodder. 2008. “Price Discrimination and Resale: A Classroom Experiment.” Journal of Economic Education, 40, 229-44.
+
+C. Eckel, K. Johnson, C. Montmarquette and C. Rojas. 2007. “Debt Aversion and the Demand for Loans for Post-Secondary Education.” Public Finance Review, 35, 233-62.
+
+S. Ball, C. Eckel and C. Rojas. 2006. “Technology Improves Learning in Large Principles of Economics Classes: Using our WITS.” American Economic Review (Papers and Proceedings), 96, 442-6.
+
+Computer Code Available for Download
+Matlab Program to Run the Epps-Singleton Two-Sample Test of Equality of Distributions.
+
+Description of Matlab files and how to run the test [Word File](https://drive.google.com/file/d/1eJdNcKo8heK45O7BUs_BEeuwpjCmKA6n/view)
+
+Matlab m-file that reproduces Epps-Singleton (1986) results [numerical_example.m](https://docs.google.com/document/d/1dJq9lP5Ab8J4Corh_4-0YirZEeLUFMlXAR0MFHsjN7g/view) 
+
+Matlab m-file that runs the Epps-Singleton (1986) test, calculates p-value, and critical values [es.m](https://docs.google.com/document/d/1yFwYgpIsanKVr1FYbzemjoYmZ25oW5NpESpm2tUN0ow/view)
 

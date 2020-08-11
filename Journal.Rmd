@@ -1,5 +1,6 @@
 ---
-title: "Journal"
+title: "CV"
+href: https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view 
 output:
   html_document:
     toc: true
@@ -9,11 +10,6 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
-<div class="row" style="cooper black: 60px;">
-
-[CV](https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view)
-.
+<div class="row" style="cooper black: 1000px;">
+PDF of CV:
+[Here](https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view)
