@@ -1,20 +1,20 @@
 ---
-title: "Research"
+title: 
 output: html_document
 ---
 
-###MY RESEARCH{
-  margin-left: 40px;
-}
 
-Working Papers
+
+# **Working Papers:**
+
 Rezvani, E. and C. Rojas. “Firm Responsiveness to Consumers’ Reviews:  The Effect on Online Reputation”. Under review.
 
 E. Cengiz, C. Rojas and E. Wang. 2019. “The Evolution of Diet Quality in the U.S.: Evidence from Scanner Data” 
 
 C. Rojas. 2019. “Cyclical Tacit Collusion in the Hotel Industry.”
 
-Published Papers
+# **Published Papers:**
+
 C. Rojas and E. Wang. 2020. “The Effects of Excise Soda Taxes on Consumption: Evidence from Washington State and the City of Berkeley.” Accepted. Economic Inquiry.
 
 E. Rezvani and C. Rojas. 2020. “Spatial price competition in the Manhattan Hotel Market: The Role of Location, Quality, and Online Reputation,” Managerial and Decision Economics, 41:49-63.
