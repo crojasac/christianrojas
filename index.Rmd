@@ -14,7 +14,7 @@ output: html_document
 
 </style>
 
-<div class="row" style="padding-top: 30px;">
+<div class="row" style="cooper black: 30px;">
 <div class="col-sm-6">
 
 # **Christian Rojas**
