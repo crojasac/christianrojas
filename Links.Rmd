@@ -4,8 +4,10 @@ output: html_document
 ---
 
 
+<font size='5' face='arial' color='black'>
+Working Papers:
 
-# **Working Papers:**
+<font size='2' face='arial' color='black'>
 
 Rezvani, E. and C. Rojas. “Firm Responsiveness to Consumers’ Reviews:  The Effect on Online Reputation”. Under review.
 
@@ -13,7 +15,10 @@ E. Cengiz, C. Rojas and E. Wang. 2019. “The Evolution of Diet Quality in the U
 
 C. Rojas. 2019. “Cyclical Tacit Collusion in the Hotel Industry.”
 
-# **Published Papers:**
+<font size='5' face='arial' color='black'>
+Published Papers:
+
+<font size='2' face='arial' color='black'>
 
 C. Rojas and E. Wang. 2020. “The Effects of Excise Soda Taxes on Consumption: Evidence from Washington State and the City of Berkeley.” Accepted. Economic Inquiry.
 

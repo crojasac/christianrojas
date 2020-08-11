@@ -1,15 +1,4 @@
----
-title: "CV"
-href: https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view 
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    collapsed: false
-    number_sections: false
-    toc_depth: 1
-    #code_folding: hide
----
-<div class="row" style="cooper black: 1000px;">
-PDF of CV:
-[Here](https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view)
+
+<font size='14' face='arial' color='black'>
+<p style="text-align: center;">&nbsp;</p>
+[CV](https://drive.google.com/file/d/1McjXKdNhCEU6i0wgOS5TjT_XiTYw9iqM/view)
