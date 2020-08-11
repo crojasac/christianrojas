@@ -33,7 +33,7 @@ Amherst, MA 01003
 <div class="col-sm-6">
 
 
-<a href = "https://crumplab.github.io">
+<a href = "https://lh3.googleusercontent.com/IcmA7VwbJwHv3N66J18uXOhCfhGnScSOuevChwZs8Q9hx9JSRoTJu-k8FV99boktS59hxkYoT_xknLyANn883cmHfSo8yUko9gHf5r31CfTaLpTdNw=w1280">
 ![](images/logo.png)
 </a>
 </div>
